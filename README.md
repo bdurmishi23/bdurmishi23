@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Banner: swap this for a custom image if you have one (1500x400px works well) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36549A,100:1e3a5f&height=200&section=header&text=Belina%20[LastName]&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Backend%20Systems%20%E2%80%A2%20Web%20Applications&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/bdurmishi23/bdurmishi23/main/banner_terminal.svg" width="100%"/>
 </div>
 
 ### 👋 About Me
