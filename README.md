@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/bdurmishi23/bdurmishi23/main/banner_terminal.svg" width="100%"/>
 </div>
+
 ### 👋 About Me
 
 I'm a recently graduated **Software Engineer (BSc, Epoka University, Tirana)** interested in backend development, full-stack systems, and clean architecture.
