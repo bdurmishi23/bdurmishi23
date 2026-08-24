@@ -26,11 +26,8 @@ I like building things that are precise, practical, and actually used by someone
 |---|---|---|
 | **[DJ Architects Studio Website](https://github.com/bdurmishi23/dj-architects)** | Bilingual architecture studio website | Next.js, Sanity, Tailwind |
 | **[MemoryLane](https://github.com/bdurmishi23/memorylane)** | Cross-platform memory-sharing app | React Native, NestJS |
-| **[AMI Municipal Assistant](https://github.com/bdurmishi23/AMI-Municipal-Assistant)** | Municipal assistant application | *(confirm stack)* |
-| **[Real Estate Website](https://github.com/bdurmishi23/real-estate-website)** | Real estate listing website | *(confirm stack)* |
-| **OCR Document Validation** (Thesis) | Automated document validation pipeline | Python, OCR |
-
-*(double check each stack listed above matches what's actually in the repo)*
+| **[AMI Municipal Assistant](https://github.com/bdurmishi23/AMI-Municipal-Assistant)** (Thesis) | Municipal assistant application with OCR-based document validation | Python, OCR |
+| **[Belvoir Realty](https://github.com/bdurmishi23/real-estate-website)** | Real estate listing & management platform, framework-free PHP | PHP, MySQL, Bootstrap |
 
 ---
 
@@ -67,14 +64,13 @@ I like building things that are precise, practical, and actually used by someone
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-### ⚡ A Little More About Me
+### ⚡ Experience
 
-I TA'd Object-Oriented Programming in Java and became a Certified Student Mentor — turns out explaining `this` keyword to confused sophomores is its own kind of debugging practice.
+TA for Object-Oriented Programming (Java) and Certified Student Mentor.
 
 ---
 
