@@ -14,7 +14,7 @@ I like building things that are precise, practical, and actually used by someone
 
 ### 🚧 Currently Building
 
-**DJ Architects** — a bilingual (AL/EN) portfolio and studio launch website for an interior design studio, built with Next.js 14, TypeScript, Sanity CMS, and Framer Motion. Featuring a plan-first navigation system, a spatial identity derived from floor-plan geometry, and a cross-project room-index browser.
+**DJ Architects Studio Website** — a bilingual (AL/EN) portfolio and studio launch website for an interior design studio, built with Next.js 14, TypeScript, Sanity CMS, and Framer Motion. Featuring a plan-first navigation system, a spatial identity derived from floor-plan geometry, and a cross-project room-index browser.
 
 **Coming up next:** AccessFlow, a Spring Boot Identity & Access Governance platform, drawing on hands-on Active Directory experience from an IT support internship.
 
@@ -24,11 +24,13 @@ I like building things that are precise, practical, and actually used by someone
 
 | Project | Description | Stack |
 |---|---|---|
-| **DJ Architects Studio** | Bilingual architecture studio website | Next.js, Sanity, Tailwind |
+| **[DJ Architects Studio Website](https://github.com/bdurmishi23/dj-architects)** | Bilingual architecture studio website | Next.js, Sanity, Tailwind |
+| **[MemoryLane](https://github.com/bdurmishi23/memorylane)** | Cross-platform memory-sharing app | React Native, NestJS |
+| **[AMI Municipal Assistant](https://github.com/bdurmishi23/AMI-Municipal-Assistant)** | Municipal assistant application | *(confirm stack)* |
+| **[Real Estate Website](https://github.com/bdurmishi23/real-estate-website)** | Real estate listing website | *(confirm stack)* |
 | **OCR Document Validation** (Thesis) | Automated document validation pipeline | Python, OCR |
-| **MemoryLane** | Cross-platform memory-sharing app | React Native, NestJS |
 
-*(swap in your real repo links once pinned — check each stack detail matches what's actually in the repo)*
+*(double check each stack listed above matches what's actually in the repo)*
 
 ---
 
