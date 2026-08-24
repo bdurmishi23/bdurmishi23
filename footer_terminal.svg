@@ -1,0 +1,9 @@
+<svg width="1500" height="80" viewBox="0 0 1500 80" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Footer divider</title>
+<desc>Black terminal-style footer with green accent line and prompt text</desc>
+
+<rect width="1500" height="80" fill="#0a0d0a"/>
+<line x1="60" y1="20" x2="1440" y2="20" stroke="#1f2b1f" stroke-width="1"/>
+<text x="750" y="55" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#3ddc3d">$ echo "thanks for stopping by"<tspan fill="#4a6b4a">_</tspan></text>
+
+</svg>
