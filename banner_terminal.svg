@@ -1,0 +1,25 @@
+<svg width="1500" height="400" viewBox="0 0 1500 400" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Belina — Software Engineer terminal banner</title>
+<desc>Black terminal-style banner with green monospace text and window chrome</desc>
+
+<rect width="1500" height="400" fill="#0a0d0a"/>
+
+<!-- terminal window -->
+<rect x="60" y="50" width="1380" height="300" rx="10" fill="#0d120d" stroke="#1f2b1f" stroke-width="1.5"/>
+
+<!-- title bar -->
+<rect x="60" y="50" width="1380" height="40" rx="10" fill="#111811"/>
+<rect x="60" y="80" width="1380" height="10" fill="#111811"/>
+<circle cx="95" cy="70" r="7" fill="#ff5f56"/>
+<circle cx="120" cy="70" r="7" fill="#ffbd2e"/>
+<circle cx="145" cy="70" r="7" fill="#27c93f"/>
+<text x="750" y="75" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#4a6b4a">belina@portfolio: ~ (main)</text>
+
+<!-- terminal content -->
+<text x="100" y="130" font-family="'Courier New', monospace" font-size="22" fill="#2e5a2e">$ cat about.txt</text>
+<text x="100" y="170" font-family="'Courier New', monospace" font-size="26" fill="#3ddc3d">$ whoami</text>
+<text x="100" y="235" font-family="'Courier New', monospace" font-size="54" font-weight="bold" fill="#4fff4f">Belina Durmishi<tspan fill="#3ddc3d"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>_</tspan></text>
+<text x="100" y="285" font-family="'Courier New', monospace" font-size="26" fill="#7fdb7f">&gt; Software Engineer</text>
+<text x="100" y="325" font-family="'Courier New', monospace" font-size="20" fill="#4a6b4a">&gt; Backend Systems &#8226; Full-Stack Web Applications</text>
+
+</svg>
