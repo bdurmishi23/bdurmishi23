@@ -24,7 +24,7 @@ I like building things that are precise, practical, and actually used by someone
 
 | Project | Description | Stack |
 |---|---|---|
-| **[DJ Architects Studio Website](https://github.com/bdurmishi23/dj-architects)** | Bilingual architecture studio website | Next.js, Sanity, Tailwind |
+| **[DJ Architects Studio Website](https://github.com/bdurmishi23/dj-architects-website)** | Bilingual architecture studio website | Next.js, Sanity, Tailwind |
 | **[MemoryLane](https://github.com/bdurmishi23/memorylane)** | Cross-platform memory-sharing app | React Native, NestJS |
 | **[AMI Municipal Assistant](https://github.com/bdurmishi23/AMI-Municipal-Assistant)** (Thesis) | Municipal assistant application with OCR-based document validation | Python, OCR |
 | **[Belvoir Realty](https://github.com/bdurmishi23/real-estate-website)** | Real estate listing & management platform, framework-free PHP | PHP, MySQL, Bootstrap |
